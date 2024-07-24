@@ -490,7 +490,9 @@ dotlottie-player.lode {
 .section5 .site1 .s5-s1-left a.origin {
   margin-left: 1%;
 }
-
+.section5 .site1 .s5-s1-left a.detail{
+  margin-left: 1%;
+}
 .section5 .site1 .s5-s1-right {
   width: 100%;
   height: 100%;
